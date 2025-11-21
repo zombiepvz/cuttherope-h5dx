@@ -157,7 +157,7 @@ a:focus {
     left: 0;
     right: 0;
     bottom: 0;
-    background: url("../images/1024/page/loader-logo.jpg") no-repeat;
+    background: url("https://zombiepvz.github.io/cuttherope-h5dx/images/1024/page/loader-logo.jpg") no-repeat;
     z-index: 100;
     color: #fff;
 }
@@ -168,7 +168,7 @@ a:focus {
     left: 0;
     right: 0;
     bottom: 0;
-    background: url("../images/1920/page/loader-logo.jpg") no-repeat;
+    background: url("https://zombiepvz.github.io/cuttherope-h5dx/images/1920/page/loader-logo.jpg") no-repeat;
     z-index: 100;
     color: #fff;
 }
@@ -443,7 +443,7 @@ body {
 }
 
 .ui-1024 #progress {
-    background: url("../images/480/ui/load-repeat.png") repeat-x;
+    background: url("https://zombiepvz.github.io/cuttherope-h5dx/images/480/ui/load-repeat.png") repeat-x;
     width: 10%;
     height: 18px;
     border-radius: 18px;
@@ -461,7 +461,7 @@ body {
 }
 
 .ui-1920 #progress {
-    background: url("../images/1920/ui/load-repeat.jpg") repeat-x;
+    background: url("https://zombiepvz.github.io/cuttherope-h5dx/images/1920/ui/load-repeat.jpg") repeat-x;
     width: 10%;
     height: 35px;
     border-radius: 18px;
